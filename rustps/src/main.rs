@@ -1,6 +1,5 @@
-pub mod q1074;
+pub mod q20301;
 
 fn main() {
-    q1074::main();
+    q20301::main();
 }
-
