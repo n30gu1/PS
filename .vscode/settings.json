@@ -3,5 +3,8 @@
     "[typescript]": {
       "editor.tabSize": 2
     },
-    "C_Cpp.errorSquiggles": "enabled"
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+      "iostream": "cpp"
+    }
 }
